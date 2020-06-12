@@ -10,7 +10,7 @@ export default class Welcome extends React.component{
       <div>
        
         <h3>
-         start editing
+         start editing 
         </h3>
       
       </div>

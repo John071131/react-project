@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Welcome from './Component/Welcome'
+import Welcome from './components/welcome'
 import { render } from 'react-dom';
 
 import './style.css';
